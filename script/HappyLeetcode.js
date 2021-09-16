@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  做一个快乐的工程师
-// @author       You
+// @author       Mouday
 // @match        https://leetcode-cn.com/*
 // @grant        none
 // @email        pengshiyuyx@163.com
