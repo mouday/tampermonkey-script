@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         HappyLeetcode
 // @namespace    http://tampermonkey.net/
+// @homepage     https://github.com/mouday/tampermonkey-script
 // @version      0.2
 // @description  做一个快乐的工程师，增加字体大小
 // @author       Mouday
