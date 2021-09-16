@@ -2,10 +2,11 @@
 // @name         HappyLeetcode
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  做一个快乐的工程师
 // @author       You
 // @match        https://leetcode-cn.com/*
 // @grant        none
+// @email        pengshiyuyx@163.com
 
 // @grant        window.onload
 // @grant        unsafeWindow

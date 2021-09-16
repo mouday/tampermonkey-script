@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  做一个快乐的CV工程师
 // @author       Mouday
+// @email        pengshiyuyx@163.com
 
 // @match        *://blog.csdn.net/*/article/details/*
 // @match        *://*.blog.csdn.net/article/details/*
