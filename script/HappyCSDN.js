@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         HappyCSDN
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  做一个快乐的CV工程师
+// @version      0.2
+// @description  做一个快乐的CV工程师，连接直接跳转，移除复制小尾巴，移除下载推荐
 // @author       Mouday
 // @email        pengshiyuyx@163.com
 

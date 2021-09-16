@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         HappyLeetcode
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  做一个快乐的工程师
+// @version      0.2
+// @description  做一个快乐的工程师，增加字体大小
 // @author       Mouday
 // @match        https://leetcode-cn.com/*
 // @grant        none
