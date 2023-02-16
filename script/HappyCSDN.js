@@ -2,7 +2,7 @@
 // @name         HappyCSDN
 // @namespace    http://tampermonkey.net/
 // @homepage     https://github.com/mouday/tampermonkey-script
-// @version      0.2
+// @version      0.3
 // @description  做一个快乐的CV工程师，连接直接跳转，移除复制小尾巴，移除下载推荐
 // @author       Mouday
 // @email        pengshiyuyx@163.com
@@ -39,10 +39,15 @@ function removeDownloadRecommendBox(){
 
 }
 
+// 自动展开代码 2023-02-16
+function autoExpandCode(){
+    document.querySelectorAll('.hide-preCode-bt').forEach(item=>item.click())
+}
+
 (function() {
     'use strict';
     openLinkOnNewTab();
     removeCopyAppend();
     removeDownloadRecommendBox();
-
+    autoExpandCode();
 })();
